@@ -1,6 +1,7 @@
 # 📱 Tip and Consumption Calculator
 
-![Mockup](public/Tip_and_Consumption_Calculator-Mockup.png)
+![Mockup](public/mockup-browser.webp)
+![Mockup-2](public/mockup-browser-2.webp)
 
 ## 📖 Project Description
 A web application that includes a menu where you can place an order and add a tip.
